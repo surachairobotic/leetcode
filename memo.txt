@@ -1,0 +1,3 @@
+g++ -g -Wall main.cpp -o main
+
+https://www.cyberciti.biz/faq/howto-compile-and-run-c-cplusplus-code-in-linux/
